@@ -1,0 +1,9 @@
+.incomplete-tasks, .complete-tasks {
+    flex: 1 1 auto;
+  }
+
+  .task-list {
+    list-style-type: none;
+    padding-inline-start: 0;
+  }
+  
